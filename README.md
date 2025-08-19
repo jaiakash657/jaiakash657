@@ -8,7 +8,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jaiakash657&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jaiakash657?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
 ## 🚀 About Me
@@ -31,8 +30,9 @@
 
 ### 🛠️ What I'm Building
 - 🔧 **AWS Helper** *(Planning Phase)*
-  - Comprehensive AWS utilities toolkit
-  - Aimed at simplifying cloud operations
+  - Automation toolkit for AWS manual operations
+  - Streamlining cloud infrastructure management
+  - Making AWS services more accessible and efficient
   
 - 🎨 **Personal Portfolio** 
   - Modern, interactive showcase
@@ -82,12 +82,20 @@ I'm always excited to work on innovative projects! Here's what I'm looking for:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaiakash657&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiakash657&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+  
+### 📈 **Performance Overview**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaiakash657&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiakash657&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiakash657&show_icons=true&theme=radical&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" />
+### 🚀 **Code Distribution**
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiakash657&show_icons=true&theme=tokyonight&layout=donut&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
+
+### 💻 **Development Activity**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiakash657&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
+
+### ⚡ **Coding Stats**
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiakash657&theme=tokyonight)
+
 </div>
 
 ---
