@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Final+Year+CSE+Student+%40+VIT-AP;Full+Stack+Developer+%26+AI+Enthusiast;Cloud+Computing+Explorer;500%2B+LeetCode+Problems+Solved+%F0%9F%9A%80;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jaiakash657&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 ## 🚀 About Me
 
@@ -19,6 +19,8 @@
 ☁️ **Cloud & AI Enthusiast** exploring the intersection of technology and innovation  
 🧩 **Problem Solver** with **500+ LeetCode problems** under my belt  
 🌟 Always eager to learn, build, and contribute to meaningful projects
+
+<br clear="right"/>
 
 ---
 
@@ -100,20 +102,6 @@ I'm always excited to work on innovative projects! Here's what I'm looking for:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiakash657&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-### 🎯 Coding Milestones
-- 🚀 **500+ Problems Solved** on LeetCode
-- 💪 **Consistent GitHub Contributions** throughout the year
-- 🏅 **Multiple Coding Contest Participations**
-- 📈 **Strong Problem-Solving Track Record**
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -151,14 +139,6 @@ I'm always excited to work on innovative projects! Here's what I'm looking for:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiakash657&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -188,7 +168,7 @@ I'm always excited to work on innovative projects! Here's what I'm looking for:
 
 <div align="center">
 
-```typescript
+```javascript
 const jaiAkash = {
     location: "Amaravati, Andhra Pradesh, India",
     currentFocus: ["Full Stack Development", "Cloud Computing", "AI/ML"],
